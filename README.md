@@ -140,3 +140,12 @@ https://www.cgtrader.com/free-3d-models/furniture/other/dusty-old-booshelf
 
 15. Trash can
 https://www.cgtrader.com/free-3d-models/interior/office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0
+
+
+## Video
+
+Link to the video I made on the project:
+https://youtu.be/iewyjk7RRCQ
+
+## Discussion
+
