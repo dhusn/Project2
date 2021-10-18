@@ -1,89 +1,142 @@
-[![VRTK logo][VRTK-Image]](#)
-
-# VR Bowling Game Tutorial
+# Dino Husnic CS 428 Project 2
 
 > _This has been tested on version 2019.4.28f1 of the Unity software_
 
-[![License][License-Badge]][License]
-[![Backlog][Backlog-Badge]][Backlog]
-[![Discord][Discord-Badge]][Discord]
-[![Videos][Videos-Badge]][Videos]
-[![Twitter][Twitter-Badge]][Twitter]
-
 ## Introduction
 
-A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the [Unity] software.
+My project is for Thassalophobia, or the fear of the ocean/ large bodies of water. There are interactables that can be found on ships and fish in the ocean that might be scary to some, and there is a model of a sea with a ghost ship, an abandoned row boat, a lighthouse, and some fish underneath. There is also a separate office on the other side of the main doors. It is a VR application, so it is intended to be used on a VR headset. 
 
-This tutorial covers the basics of getting a VR camera working within Unity and being able to interact with objects within the scene.
+Thassalophobia can have people not going to the beach, go on boat rides, be scared to interact with sea creatures, and various other things relating to both the sea and bodies of water. There are a few sea creatures in the space that can be seen and interacted with, allowing a person to maybe try to conquer a fear of the sea creatures or at least take a step in that direction. There is a model of a "scary" scenario with a body of water, two ships, and a lighthouse. Bodies of water and scenarios like being on a boat or on the beach can trigger this phobia, but there is a limited space so making a life size island or on a board a ship is not really possible in a small office. A small model of a scenario can work and help a person maybe put it in perspective, and if they can overcome any fear they are feeling here, it is one step closer to overcoming the fear in reality.
 
-> If you're using Unity 2020.1 or above then please refer to the [Converting To Unity 2020] tutorial.
-
-![VR Bowling Scene](https://user-images.githubusercontent.com/36199993/74746663-af050780-525d-11ea-8eb0-6ba279fed0f7.gif)
 
 ## Getting Started
 
-Follow the [Making A VR Bowling Game] tutorial to build this project yourself in an empty Unity project or follow the instructions below to download the completed project.
+This is the github page for my project. The project runs on Unity 2019.4.28f1 and VRTK version 4. The way to download and access this project is to click the green code button at the top of the project and download the zip folder. Extract all the files in the zip folder. Once the files have been extracted, go into the Unity Hub and click on add. Go to the folder that is needed (MACOSX or ScareCo folder for windows), and the project should be opened after a short time. In the scenes folder, there is a scene called ScareCoOffices. Open that scene and that should bring you to my project. There are two camera settings. Check SpatialCamera for a simulated version using keyboard and mouse or check XRCamera for the VR experience. Run the game using the play button at the top.
 
-### Downloading the project
+## List of Assets
 
-* Download this project repository to your local machine using *one* of the following methods:
-  * Git clone the repository with `git clone https://github.com/ExtendRealityLtd/VRTK.Tutortials.VRBowling.git`
-  * Download the zip file at `https://github.com/ExtendRealityLtd/VRTK.Tutortials.VRBowling/archive/master.zip` and extract it.
+### Models from the web
+1. Shark (Has physics) (animated): 
+https://www.cgtrader.com/items/252849/download-page
 
-### Opening the downloaded project in the Unity software
+2. Angler (Has physics) (Has light source):
+https://sketchfab.com/3d-models/anglerfish-second-test-5e2f4b2d2e1a4613a008b6caaf40d50c
 
-> **Do not** drag and drop this downloaded tutorial project into an existing Unity project. The downloaded tutorial project **is a Unity project** already and you should not nest a Unity project inside another Unity project. Follow the instructions below for opening this tutorial project within the Unity software.
+3. Firefly Squid (animated):
+https://sketchfab.com/3d-models/firefly-squid-glowing-7055e5b018ca43e9ad2e00438f8572a1
 
-#### Using the Unity Hub
+4. Ghost Ship:
+https://www.cgtrader.com/items/251716/download-page
 
-* Open the [Unity Hub] panel.
-* Click the `Add` Button.
-* Browse to the local directory where the repository was cloned/downloaded to and click `Select Folder`.
-* The tutorial project will now show up in the Unity Hub project window, so select `VRTK.Tutortials.VRBowling` to open the project in the Unity software.
-* The `VRTK.Tutortials.VRBowling` project will now open within the Unity software.
+5. Ship wheel (has physics):
+https://www.cgtrader.com/items/1969451/download-page
 
-#### Opening from within the Unity software
+6. Anchor (has physics):
+https://www.cgtrader.com/items/2363180/download-page
 
-* Select `Main Menu -> File -> Open Project` within the Unity software.
-* Browse to the local directory where the repository was cloned/downloaded to and click `Select Folder`.
-* The `VRTK.Tutortials.VRBowling` project will now open within the Unity software.
+7. Lantern (Has light) (Has physics):
+https://sketchfab.com/3d-models/rusty-oil-lantern-a1de8398597a4575a9c9a9f0a6e4dd2b
 
-### Running the game scene
+8. Treasure chest:
+https://www.cgtrader.com/items/2263548/download-page
 
-* Open the `Assets/Scenes/BowlingAlley` scene.
-* Enable `Maximize On Play` in the Unity Game view control bar to ensure no performance issues are caused by the Unity Editor overhead.
-* Play the scene in the Unity Editor (`CTRL` + `P`).
-* The scene should automatically play within any Unity supported XR hardware.
+9. Lighthouse (Source of light):
+https://sketchfab.com/3d-models/lighthouse-120c83f406f94f97b2f1a7443e64da13
 
-## Contributing
+10. Small row boat:
+https://sketchfab.com/3d-models/old-rowboat-9922d5678af84adeb1c9b479856446ca
 
-We're not currently in a place where accepting contributions would be helpful. But as soon as we're ready we'll let you know!
+11. Rock under lighthouse:
+https://www.cgtrader.com/items/2262184/download-page
 
-## License
+12. Buoy:
+https://sketchfab.com/3d-models/dart-tsunami-buoy-cac2fcbff3f948c79419716bc9734465
 
-Code released under the [MIT License][License].
+13. Compass:
+https://www.cgtrader.com/items/2878653/download-page
 
-## Disclaimer
+14. Old Skull:
+https://www.cgtrader.com/items/886195/download-page
 
-These materials are not sponsored by or affiliated with Unity Technologies or its affiliates. "Unity" is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.
+15. Light for wall:
+https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
-[VRTK-Image]: https://raw.githubusercontent.com/ExtendRealityLtd/related-media/main/github/readme/vrtk.png
-[Unity]: https://unity3d.com/
-[Converting To Unity 2020]: Documentation/Tutorials/ConvertingToUnity2020/README.md
-[Making A VR Bowling Game]: Documentation/Tutorials/MakingAVRBowlingGame/README.md
+### Models made by Me
 
-[License-Badge]: https://img.shields.io/github/license/ExtendRealityLtd/VRTK.svg
-[Backlog-Badge]: https://img.shields.io/badge/project-backlog-78bdf2.svg
+1. Shark plaque
+2. Aquarium tank
+3. Angler light
+4. Dispenser vents
+5. Baskets
 
-[Discord-Badge]: https://img.shields.io/badge/discord--7289DA.svg?style=social&logo=discord
-[Videos-Badge]: https://img.shields.io/badge/youtube--e52d27.svg?style=social&logo=youtube
-[Twitter-Badge]: https://img.shields.io/badge/twitter--219eeb.svg?style=social&logo=twitter
+## Sounds Used
 
-[License]: LICENSE.md
-[Backlog]: http://tracker.vrtk.io
+### Ambient Sounds
+1. Ocean Waves crashing on a beach loop source:
 
-[Discord]: https://discord.com/invite/bRNS6hr
-[Videos]: http://videos.vrtk.io
-[Twitter]: https://twitter.com/VR_Toolkit
+### Sounds playing through interactions
 
-[Unity Hub]: https://docs.unity3d.com/Manual/GettingStartedUnityHub.html
+1. Rowing boat
+https://www.soundjay.com/rowing-boat-sound-effects.html
+
+2. Light Switch
+https://www.soundjay.com/switch-sounds-1.html
+
+3. Lantern
+https://mixkit.co/free-sound-effects/light/
+Quick switch click
+
+4. Anchor
+https://mixkit.co/free-sound-effects/thud/
+Metal tool drop
+
+## New Room
+
+This is the Graduate portion of the project
+
+### Models Used
+
+1. Desk:
+https://www.cgtrader.com/free-3d-models/interior/office/desk-table-wooden
+
+2. Chair
+https://www.cgtrader.com/free-3d-models/furniture/chair/office-chair-af24a879-7765-49f1-acd2-e4050982e4cb
+
+3. Printer
+https://sketchfab.com/3d-models/printer-low-poly-8a3a68f84f4d4a34973b527875a7314b
+
+4. Carpet
+https://www.cgtrader.com/free-3d-models/architectural/fixture/contemporary-carpet-rug-12
+
+5. Computer screen
+https://www.cgtrader.com/free-3d-models/electronics/video/asus-pc-monitor
+
+6. Keyboard
+https://sketchfab.com/3d-models/keyboard-66f5ca31bf154c82ae5284a32a362a4e
+
+7. Mouse
+https://sketchfab.com/3d-models/wireless-mouse-8e337c86bce947dba70ed3531e63d92b
+
+8. Pen:
+https://www.cgtrader.com/free-3d-models/various/various-models/pens-and-sharpener
+
+9. Paper on table
+https://sketchfab.com/3d-models/tablet-folder-43976803a2b141c6b467408bda6f2ef7
+
+10. Mini table
+https://sketchfab.com/3d-models/table-1132fa2850a24917892733566bd68e74
+
+11. Plant in vase on mini table
+https://www.cgtrader.com/free-3d-models/plant/pot-plant/aloe-vera-plant-dcc07e32-ba23-4674-af4c-a52d6f608b91
+
+12. Lamp
+https://www.cgtrader.com/free-3d-models/furniture/lamp/old-table-lamp
+
+13. Other chair
+https://sketchfab.com/3d-models/chair-b07d263a7ab942e6935e77cd75bf1194
+
+14. Bookshelf
+https://www.cgtrader.com/free-3d-models/furniture/other/dusty-old-booshelf
+
+15. Trash can
+https://www.cgtrader.com/free-3d-models/interior/office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0
