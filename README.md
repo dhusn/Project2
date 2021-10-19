@@ -65,6 +65,7 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
 1. Shark plaque
 
+![image](https://user-images.githubusercontent.com/90066544/137822930-98cd15ee-61ec-4381-8406-d5b691db9b8e.png)
 
 2. Aquarium tank
 
@@ -76,10 +77,15 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
 ![image](https://user-images.githubusercontent.com/90066544/137822686-04e0f902-978d-4b9b-8230-8d968416dfec.png)
 
-4. Dispenser vents
+4. Dispensor vents
+
+![image](https://user-images.githubusercontent.com/90066544/137823034-ae7fe616-527a-4b35-86de-98f5f68b66b9.png)
+![image](https://user-images.githubusercontent.com/90066544/137823082-6af959eb-e672-4536-a1e3-bc3f2f2d52f4.png)
 
 
-5. Baskets
+5. Baskets (Underneath the dispensor vents)
+
+
 
 ## Sounds Used
 
