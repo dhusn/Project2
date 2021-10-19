@@ -16,8 +16,11 @@ This is the github page for my project. The project runs on Unity 2019.4.28f1 an
 ## List of Assets
 
 ### Models from the web
+
 1. Shark: 
 https://www.cgtrader.com/items/252849/download-page
+
+![image](https://user-images.githubusercontent.com/90066544/137824873-5afb1fe1-1923-4c5b-8dd8-576136f41904.png)
 
 2. Angler:
 https://sketchfab.com/3d-models/anglerfish-second-test-5e2f4b2d2e1a4613a008b6caaf40d50c
@@ -25,8 +28,10 @@ https://sketchfab.com/3d-models/anglerfish-second-test-5e2f4b2d2e1a4613a008b6caa
 3. Firefly Squid:
 https://sketchfab.com/3d-models/firefly-squid-glowing-7055e5b018ca43e9ad2e00438f8572a1
 
-4. Ghost Ship:
-https://www.cgtrader.com/items/251716/download-page
+![image](https://user-images.githubusercontent.com/90066544/137824836-ef8988ad-c7d3-4539-af04-3daced766113.png)
+
+4. Compass:
+https://www.cgtrader.com/items/2878653/download-page
 
 5. Ship wheel:
 https://www.cgtrader.com/items/1969451/download-page
@@ -37,29 +42,44 @@ https://www.cgtrader.com/items/2363180/download-page
 7. Lantern:
 https://sketchfab.com/3d-models/rusty-oil-lantern-a1de8398597a4575a9c9a9f0a6e4dd2b
 
+![image](https://user-images.githubusercontent.com/90066544/137824971-458128fe-0545-4d4b-b7d0-afe96db5ac27.png)
+
 8. Treasure chest:
 https://www.cgtrader.com/items/2263548/download-page
+
+![image](https://user-images.githubusercontent.com/90066544/137825028-c0e3d211-9a80-47e9-b75a-9958b352f89c.png)
 
 9. Lighthouse:
 https://sketchfab.com/3d-models/lighthouse-120c83f406f94f97b2f1a7443e64da13
 
-10. Small row boat:
-https://sketchfab.com/3d-models/old-rowboat-9922d5678af84adeb1c9b479856446ca
-
-11. Rock under lighthouse:
+10. Rock under lighthouse:
 https://www.cgtrader.com/items/2262184/download-page
 
-12. Buoy:
+![image](https://user-images.githubusercontent.com/90066544/137824610-0995a4cd-a179-4f7e-9bd9-cdeca87bc599.png)
+
+11. Buoy:
 https://sketchfab.com/3d-models/dart-tsunami-buoy-cac2fcbff3f948c79419716bc9734465
 
-13. Compass:
-https://www.cgtrader.com/items/2878653/download-page
+![image](https://user-images.githubusercontent.com/90066544/137825115-85a1e5ae-978d-4316-baa9-535d73a720b4.png)
 
-14. Old Skull:
+12. Small row boat:
+https://sketchfab.com/3d-models/old-rowboat-9922d5678af84adeb1c9b479856446ca
+
+13. Old Skull:
 https://www.cgtrader.com/items/886195/download-page
+
+![image](https://user-images.githubusercontent.com/90066544/137825245-fe1d01d4-2c9f-4594-84eb-063f7b38e606.png)
+
+14. Ghost Ship:
+https://www.cgtrader.com/items/251716/download-page
+
+![image](https://user-images.githubusercontent.com/90066544/137825290-5190362a-8b11-40ae-99a6-471fbd37af5e.png)
 
 15. Light for wall:
 https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
+
+![image](https://user-images.githubusercontent.com/90066544/137825352-52db72ea-1fa9-4474-8028-fad16dca51ce.png)
+
 
 ### Models made by Me
 
@@ -112,6 +132,7 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
 1. Shark texture:
 
+
 ## Sounds Used
 
 ### Ambient Sounds
@@ -130,13 +151,11 @@ https://www.soundjay.com/switch-sounds-1.html
 3. Lantern:
 https://mixkit.co/free-sound-effects/light/
 (Quick switch click)
-
 (Plays sound when lantern is dropped)
 
 4. Anchor:
 https://mixkit.co/free-sound-effects/thud/
 (Metal tool drop)
-
 (Plays sound when anchor is dropped)
 
 ## New Room
