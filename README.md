@@ -66,8 +66,10 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 1. Shark plaque
 2. Aquarium tank
 3. Angler light
-4. Dispenser vents
-5. Baskets
+![image](https://user-images.githubusercontent.com/90066544/137822686-04e0f902-978d-4b9b-8230-8d968416dfec.png)
+
+5. Dispenser vents
+6. Baskets
 
 ## Sounds Used
 
