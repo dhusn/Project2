@@ -85,7 +85,28 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
 5. Baskets (Underneath the dispensor vents)
 
+### Requirements
 
+#### 2 Animated models
+
+1. Shark
+2. Squid
+
+#### 5 interactables
+
+1. Shark
+2. Lantern
+3. Ship Wheel
+4. Compass
+5. Angler Fish
+6. Anchor
+
+#### New Lighting
+
+1. Lighthouse
+2. Angler Fish interactable
+3. Angler fish wall lights
+4. Light on wall above switch
 
 ## Sounds Used
 
@@ -96,17 +117,21 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
 1. Rowing boat
 https://www.soundjay.com/rowing-boat-sound-effects.html
+(Plays when close to the boat)
 
 2. Light Switch
 https://www.soundjay.com/switch-sounds-1.html
+(Plays when the switch is activated)
 
 3. Lantern
 https://mixkit.co/free-sound-effects/light/
 (Quick switch click)
+(PLays sound when lantern is dropped)
 
 4. Anchor
 https://mixkit.co/free-sound-effects/thud/
 (Metal tool drop)
+(Plays sound when anchor is dropped)
 
 ## New Room
 
