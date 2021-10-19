@@ -162,7 +162,12 @@ https://mixkit.co/free-sound-effects/thud/
 
 ## New Room
 
-This is the Graduate portion of the project
+This is the Graduate portion of the project.
+
+Here is the doorway leading into the new room.
+![image](https://user-images.githubusercontent.com/90066544/137825775-f72d468b-40f7-40fe-92a5-f56ae4e4a31d.png)
+
+
 
 ### Models Used
 
@@ -172,11 +177,17 @@ https://www.cgtrader.com/free-3d-models/interior/office/desk-table-wooden
 2. Chair:
 https://www.cgtrader.com/free-3d-models/furniture/chair/office-chair-af24a879-7765-49f1-acd2-e4050982e4cb
 
+![image](https://user-images.githubusercontent.com/90066544/137826373-3b6daae9-b6d3-4df7-b373-93359c61503c.png)
+
 3. Printer:
 https://sketchfab.com/3d-models/printer-low-poly-8a3a68f84f4d4a34973b527875a7314b
 
-4. Carpet:
-https://www.cgtrader.com/free-3d-models/architectural/fixture/contemporary-carpet-rug-12
+![image](https://user-images.githubusercontent.com/90066544/137826426-32e31e62-5567-4dce-8fd8-18ac23572bec.png)
+
+4. Lamp:
+https://www.cgtrader.com/free-3d-models/furniture/lamp/old-table-lamp
+
+![image](https://user-images.githubusercontent.com/90066544/137826475-fd5dfa30-0795-46ac-a248-ceb7ec47f90e.png)
 
 5. Computer screen:
 https://www.cgtrader.com/free-3d-models/electronics/video/asus-pc-monitor
@@ -187,11 +198,15 @@ https://sketchfab.com/3d-models/keyboard-66f5ca31bf154c82ae5284a32a362a4e
 7. Mouse:
 https://sketchfab.com/3d-models/wireless-mouse-8e337c86bce947dba70ed3531e63d92b
 
+![image](https://user-images.githubusercontent.com/90066544/137826513-42b41954-1f8c-42ea-b482-4b20aff9d90f.png)
+
 8. Pen:
 https://www.cgtrader.com/free-3d-models/various/various-models/pens-and-sharpener
 
 9. Paper on table:
 https://sketchfab.com/3d-models/tablet-folder-43976803a2b141c6b467408bda6f2ef7
+
+![image](https://user-images.githubusercontent.com/90066544/137826588-f301c652-0ba4-46a1-858e-e894e5eb6711.png)
 
 10. Mini table:
 https://sketchfab.com/3d-models/table-1132fa2850a24917892733566bd68e74
@@ -199,17 +214,25 @@ https://sketchfab.com/3d-models/table-1132fa2850a24917892733566bd68e74
 11. Plant in vase on mini table:
 https://www.cgtrader.com/free-3d-models/plant/pot-plant/aloe-vera-plant-dcc07e32-ba23-4674-af4c-a52d6f608b91
 
-12. Lamp:
-https://www.cgtrader.com/free-3d-models/furniture/lamp/old-table-lamp
+![image](https://user-images.githubusercontent.com/90066544/137826649-ca1e9c65-8f83-40a1-8506-5432f3106ac2.png)
+
+12. Carpet:
+https://www.cgtrader.com/free-3d-models/architectural/fixture/contemporary-carpet-rug-12
 
 13. Other chair:
 https://sketchfab.com/3d-models/chair-b07d263a7ab942e6935e77cd75bf1194
 
+![image](https://user-images.githubusercontent.com/90066544/137826693-938ab871-ab7e-44eb-bb8f-a4458dbf4086.png)
+
 14. Bookshelf:
 https://www.cgtrader.com/free-3d-models/furniture/other/dusty-old-booshelf
 
+![image](https://user-images.githubusercontent.com/90066544/137826719-83b84589-a440-4e4c-babf-7763843f88aa.png)
+
 15. Trash can:
 https://www.cgtrader.com/free-3d-models/interior/office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0
+
+![image](https://user-images.githubusercontent.com/90066544/137826795-2c00ba04-ad98-447c-8bbe-02be0c08bbe6.png)
 
 
 ## Video
