@@ -16,31 +16,31 @@ This is the github page for my project. The project runs on Unity 2019.4.28f1 an
 ## List of Assets
 
 ### Models from the web
-1. Shark (Has physics) (animated): 
+1. Shark: 
 https://www.cgtrader.com/items/252849/download-page
 
-2. Angler (Has physics) (Has light source):
+2. Angler:
 https://sketchfab.com/3d-models/anglerfish-second-test-5e2f4b2d2e1a4613a008b6caaf40d50c
 
-3. Firefly Squid (animated):
+3. Firefly Squid:
 https://sketchfab.com/3d-models/firefly-squid-glowing-7055e5b018ca43e9ad2e00438f8572a1
 
 4. Ghost Ship:
 https://www.cgtrader.com/items/251716/download-page
 
-5. Ship wheel (has physics):
+5. Ship wheel:
 https://www.cgtrader.com/items/1969451/download-page
 
-6. Anchor (has physics):
+6. Anchor:
 https://www.cgtrader.com/items/2363180/download-page
 
-7. Lantern (Has light) (Has physics):
+7. Lantern:
 https://sketchfab.com/3d-models/rusty-oil-lantern-a1de8398597a4575a9c9a9f0a6e4dd2b
 
 8. Treasure chest:
 https://www.cgtrader.com/items/2263548/download-page
 
-9. Lighthouse (Source of light):
+9. Lighthouse:
 https://sketchfab.com/3d-models/lighthouse-120c83f406f94f97b2f1a7443e64da13
 
 10. Small row boat:
@@ -108,6 +108,10 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 3. Angler fish wall lights
 4. Light on wall above switch
 
+#### Textures gotten from online
+
+1. Shark texture:
+
 ## Sounds Used
 
 ### Ambient Sounds
@@ -115,22 +119,24 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 
 ### Sounds playing through interactions
 
-1. Rowing boat
+1. Rowing boat:
 https://www.soundjay.com/rowing-boat-sound-effects.html
 (Plays when close to the boat)
 
-2. Light Switch
+2. Light Switch:
 https://www.soundjay.com/switch-sounds-1.html
 (Plays when the switch is activated)
 
-3. Lantern
+3. Lantern:
 https://mixkit.co/free-sound-effects/light/
 (Quick switch click)
-(PLays sound when lantern is dropped)
 
-4. Anchor
+(Plays sound when lantern is dropped)
+
+4. Anchor:
 https://mixkit.co/free-sound-effects/thud/
 (Metal tool drop)
+
 (Plays sound when anchor is dropped)
 
 ## New Room
@@ -142,46 +148,46 @@ This is the Graduate portion of the project
 1. Desk:
 https://www.cgtrader.com/free-3d-models/interior/office/desk-table-wooden
 
-2. Chair
+2. Chair:
 https://www.cgtrader.com/free-3d-models/furniture/chair/office-chair-af24a879-7765-49f1-acd2-e4050982e4cb
 
-3. Printer
+3. Printer:
 https://sketchfab.com/3d-models/printer-low-poly-8a3a68f84f4d4a34973b527875a7314b
 
-4. Carpet
+4. Carpet:
 https://www.cgtrader.com/free-3d-models/architectural/fixture/contemporary-carpet-rug-12
 
-5. Computer screen
+5. Computer screen:
 https://www.cgtrader.com/free-3d-models/electronics/video/asus-pc-monitor
 
-6. Keyboard
+6. Keyboard:
 https://sketchfab.com/3d-models/keyboard-66f5ca31bf154c82ae5284a32a362a4e
 
-7. Mouse
+7. Mouse:
 https://sketchfab.com/3d-models/wireless-mouse-8e337c86bce947dba70ed3531e63d92b
 
 8. Pen:
 https://www.cgtrader.com/free-3d-models/various/various-models/pens-and-sharpener
 
-9. Paper on table
+9. Paper on table:
 https://sketchfab.com/3d-models/tablet-folder-43976803a2b141c6b467408bda6f2ef7
 
-10. Mini table
+10. Mini table:
 https://sketchfab.com/3d-models/table-1132fa2850a24917892733566bd68e74
 
-11. Plant in vase on mini table
+11. Plant in vase on mini table:
 https://www.cgtrader.com/free-3d-models/plant/pot-plant/aloe-vera-plant-dcc07e32-ba23-4674-af4c-a52d6f608b91
 
-12. Lamp
+12. Lamp:
 https://www.cgtrader.com/free-3d-models/furniture/lamp/old-table-lamp
 
-13. Other chair
+13. Other chair:
 https://sketchfab.com/3d-models/chair-b07d263a7ab942e6935e77cd75bf1194
 
-14. Bookshelf
+14. Bookshelf:
 https://www.cgtrader.com/free-3d-models/furniture/other/dusty-old-booshelf
 
-15. Trash can
+15. Trash can:
 https://www.cgtrader.com/free-3d-models/interior/office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0
 
 
