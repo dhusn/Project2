@@ -95,18 +95,24 @@ https://sketchfab.com/3d-models/wall-light-c723fa0a1ac3478790192acdb39161b0
 ### Sounds playing through interactions
 
 1. Rowing boat
+2. 
 https://www.soundjay.com/rowing-boat-sound-effects.html
 
 2. Light Switch
+3. 
 https://www.soundjay.com/switch-sounds-1.html
 
 3. Lantern
+
 https://mixkit.co/free-sound-effects/light/
-Quick switch click
+
+(Quick switch click)
 
 4. Anchor
+
 https://mixkit.co/free-sound-effects/thud/
-Metal tool drop
+
+(Metal tool drop)
 
 ## New Room
 
@@ -115,48 +121,63 @@ This is the Graduate portion of the project
 ### Models Used
 
 1. Desk:
+
 https://www.cgtrader.com/free-3d-models/interior/office/desk-table-wooden
 
 2. Chair
+
 https://www.cgtrader.com/free-3d-models/furniture/chair/office-chair-af24a879-7765-49f1-acd2-e4050982e4cb
 
 3. Printer
+
 https://sketchfab.com/3d-models/printer-low-poly-8a3a68f84f4d4a34973b527875a7314b
 
 4. Carpet
+
 https://www.cgtrader.com/free-3d-models/architectural/fixture/contemporary-carpet-rug-12
 
 5. Computer screen
+
 https://www.cgtrader.com/free-3d-models/electronics/video/asus-pc-monitor
 
 6. Keyboard
+
 https://sketchfab.com/3d-models/keyboard-66f5ca31bf154c82ae5284a32a362a4e
 
 7. Mouse
+
 https://sketchfab.com/3d-models/wireless-mouse-8e337c86bce947dba70ed3531e63d92b
 
 8. Pen:
+
 https://www.cgtrader.com/free-3d-models/various/various-models/pens-and-sharpener
 
 9. Paper on table
+
 https://sketchfab.com/3d-models/tablet-folder-43976803a2b141c6b467408bda6f2ef7
 
 10. Mini table
+
 https://sketchfab.com/3d-models/table-1132fa2850a24917892733566bd68e74
 
 11. Plant in vase on mini table
+
 https://www.cgtrader.com/free-3d-models/plant/pot-plant/aloe-vera-plant-dcc07e32-ba23-4674-af4c-a52d6f608b91
 
 12. Lamp
+
 https://www.cgtrader.com/free-3d-models/furniture/lamp/old-table-lamp
 
 13. Other chair
+
 https://sketchfab.com/3d-models/chair-b07d263a7ab942e6935e77cd75bf1194
 
 14. Bookshelf
+
 https://www.cgtrader.com/free-3d-models/furniture/other/dusty-old-booshelf
 
 15. Trash can
+
 https://www.cgtrader.com/free-3d-models/interior/office/trash-bin-374b549a-2c61-4972-a8d0-e93dbad2b2c0
 
 
