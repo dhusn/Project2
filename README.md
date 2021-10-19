@@ -165,6 +165,7 @@ https://mixkit.co/free-sound-effects/thud/
 This is the Graduate portion of the project.
 
 Here is the doorway leading into the new room.
+
 ![image](https://user-images.githubusercontent.com/90066544/137825775-f72d468b-40f7-40fe-92a5-f56ae4e4a31d.png)
 
 
